@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -41,8 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
