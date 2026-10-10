@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/0486-predict-the-winner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bracket Sequences
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
