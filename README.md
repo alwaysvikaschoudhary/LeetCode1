@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/0486-predict-the-winner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
