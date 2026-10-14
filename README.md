@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/0486-predict-the-winner) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
