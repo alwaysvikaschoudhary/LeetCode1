@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
