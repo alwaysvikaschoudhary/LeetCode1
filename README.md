@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/alwaysvikaschoudhary/LeetCode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
